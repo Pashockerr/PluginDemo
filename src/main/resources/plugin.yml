@@ -1,0 +1,8 @@
+name: MoneyPluginDemo
+version: 1.0
+main: ru.pashockerr.MoneyPluginDemo.MoneyPluginDemo
+api-version: 1.13
+commands:
+  m:
+    description: This is a plugin command that calls commands from plugin. Type help to get list of commands.
+    usage: /m [plugin_command] [arguments]

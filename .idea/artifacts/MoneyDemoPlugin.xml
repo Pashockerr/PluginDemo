@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MoneyDemoPlugin">
+    <output-path>$PROJECT_DIR$/../PluginServer/plugins</output-path>
+    <root id="archive" name="MoneyDemoPlugin.jar">
+      <element id="module-output" name="MoneyPluginDemo" />
+    </root>
+  </artifact>
+</component>
